@@ -1,6 +1,6 @@
 # ukl_paket1
 
-![Alt Text](https://raw.githubusercontent.com/juangbagusaryamukti/ukl2025/Screenshot2025-05-20194845.png
+![Alt Text](https://raw.githubusercontent.com/juangbagusaryamukti/ukl2025/Screenshot2025-05-20194845.png)
 
 A new Flutter project.
 
